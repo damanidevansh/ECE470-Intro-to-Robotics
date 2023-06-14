@@ -1,1 +1,2 @@
-# ECE470-Intro-to-Robotics
+# ECE470: Intro to Robotics
+This repository contains the major code segments of labs I worked on while taking ECE 470: Intro to Robotics in Spring 2023. The labs featured the implementation of Forward Kinematics (Lab 3), Inverse Kinematics (Lab 4), color detection (Lab 5) and using a combination of all three to build a color-dependent bridge for our final project (Lab 6). I utilized Python and the Robot Operating System (ROS) to control the movements of the UR3-robot arm.
